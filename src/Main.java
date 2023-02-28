@@ -8,7 +8,6 @@ public class Main {
 
 //        System.out.println(y[0]);
         int[][] xy= {{10,20}, {20,30}};
-
         int[] data = {1,10,20,30,40,50,60,70,80,90};
                 for(int element: data){
                     //code here
